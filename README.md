@@ -77,7 +77,6 @@ A documentação é gerada automaticamente utilizando **OpenAPI (Swagger)**, per
 - Visualização dos endpoints
 - Testes diretos via navegador
 - Melhor entendimento da estrutura da API
-![Swagger da API](docs/images/swagger.png)
 
 ---
 
